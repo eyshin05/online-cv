@@ -132,11 +132,11 @@ publications:
     # intro: |
       
     papers:
-      - title: Astrocytic water channel aquaporin-4 modulates brain plasticity in both mice and humans: A potential gliogenetic mechanism underlying language-associated learning
+      - title: "Astrocytic water channel aquaporin-4 modulates brain plasticity in both mice and humans: A potential gliogenetic mechanism underlying language-associated learning"
         authors: J Woo, J E Kim, J J Im, J Lee, H S Jeong, S Park, S-Y Jung, H An, S Yoon, S M Lim, S Lee, J Ma, **E Y Shin**, Y-E Han, B Kim, E H Lee, L Feng, H Chun, B-E Yoon, I Kang, S R Dager, I K Lyoo & C J Lee
         conference: Molecular Psychiatry 23, 1021-1031
 
-      - title: Predicting decisions related to loss aversion using multi-voxel pattern analysis : In rapid event-related design fMRI
+      - title: "Predicting decisions related to loss aversion using multi-voxel pattern analysis : In rapid event-related design fMRI"
         authors: E Y Shin
         conference: Master Thesis
         
