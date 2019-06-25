@@ -44,141 +44,141 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
-
+      I first met the "Artificial Intelligence" during my freshman year of college. 
+      I've been selected as a Computer Media department (similar to a general Computer Science), 
+        and have learned about software development, 
+        while the interest in AI has been steadily continuing.
+      At the time, I didn't know about Deep Learning things, 
+        but I wondered how Neuroscience is reflected in AI,
+        so I studied Neuroscience on my own.
+      
+      I wanted to study more about Neuroscience and apply to it AI, 
+        so I entered the graduate school and 
+          learn how to take structural/functioanl MRI and analyze the data, 
+        and learned the human brain in many ways.
+      
+      At a time of heightened public interest in Deep Learning, 
+        I received a master's degree.
+      And I thought, now I have to do some AI things, and I've jumped into the career.
+      
+      My first job was ScatterLab. 
+      My main task was to create chatbots with Natural Language Processing and Machine Learning techniques.
+      I learned a lot of things through my work for two years, 
+        but I felt the limitation of technology and want to study more in academia.
+      
+      My second and current job is IBS-CNIR.
+      Now I'm doing functional MRI data analysis in motor learning,
+        and I'm a little more familiar with Multivariate Pattern Analysis techniques, computational modeling, and statistics.
+        
+      I am now looking for the next step.
+      Where research of AI allows us to study human cognition more deeply,
+        or where research of human brain send us further advanced AI, 
+        so, I want to go a place where I can achieve my belief that people and machines can complement each other.
+      
 education:
     - degree: MS in Brain and Cognitive Science
       university: Ewha Womans University
       time: 2014 - 2016
-      details: 
-            - 4.11/4.3
+      details: 4.11/4.3
 
-    - degree: BE in Computer Media
+    - degree: BE in Computer Media (Intensive major)
       university: Gachon University
       time: 2007 - 2012
-      details: 
-            - Intensive major
-            - 4.08/4.5
+      details: 4.08/4.5
             
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Researcher
+      time: 2018 - Present
+      company: Center of Neuroscience Imaging Research, South Korea
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        Researching computational learning & memory neuroscience, especially in motor learning.
+          - fMRI acquisition, data analysis
 
-          - Bullet point
-          - Bullet point
-
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Machine Learning Engineer
+      time: 2016 - 2018
+      company: Scatter Lab, South Korea
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Developed Pingpong, solution for Korean small-talking conversation chatbot.
+          - Developed an emotion model that attaches emojies to messages and recognizes emotional factors.
+          - Design, data building, preprocessing, programming, and server programming for API
+          - https://pingpong.us/
 
-          - Bullet point
-          - Bullet point
-
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Research assistant
+      time: 2013 - 2016
+      company: Ewha Brain Institute, Ewha W. University
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+        Structural MRI, functional MRI, human brain & cognition research.
+          - Developed in-house program
+          - data acquisition and analysis
 
 projects:
     title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-
+    # intro: >
+    
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Pingpong
+        link: "https://pingpong.us/"
+        tagline: "A solution for Korean small-talking conversation chatbot."
 
-      - title: DevStudio
+      - title: Loss aversion research
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "A fMRI study related to loss aversion, a theory of behavioral economics."
 
-      - title: Tempo
+      - title: Amygdala shape analysis
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "A MATLAB in-house program for amygdala shape analysis."
 
 publications:
     title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-
+    # intro: |
+      
     papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Astrocytic water channel aquaporin-4 modulates brain plasticity in both mice and humans: A potential gliogenetic mechanism underlying language-associated learning
+        authors: J Woo, J E Kim, J J Im, J Lee, H S Jeong, S Park, S-Y Jung, H An, S Yoon, S M Lim, S Lee, J Ma, **E Y Shin**, Y-E Han, B Kim, E H Lee, L Feng, H Chun, B-E Yoon, I Kang, S R Dager, I K Lyoo & C J Lee
+        conference: Molecular Psychiatry 23, 1021-1031
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: Predicting decisions related to loss aversion using multi-voxel pattern analysis : In rapid event-related design fMRI
+        authors: E Y Shin
+        conference: Master Thesis
+        
+posters:
+    title: Posters
+    # intro: |
+      
+    papers:
+      - title: Distint neural correlates of a reward-based motor skill learning in early and advanced stage
+        authors: **E Y Shin**, Y Choi, H Lee, S Kim
+        conference: Organization for Human Brain Mapping 2019
 
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Building a cognitive map of a reward-based motor skill learning
+        authors: Y Choi, **E Y Shin**, H Lee, S Kim
+        conference: Organization for Human Brain Mapping 2019
+      
+      - title: Dissociation of neural substrates for motor learning and execution in learning multiple visuomotor mappings
+        authors: S Kim, K Lim, **E Y Shin**, Y Choi
+        conference: Society for Neuroscience 2018
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+#      - name: Python
+#        level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
+#       - name: Javascript & jQuery
+#         level: 98%
 
-      - name: Angular
-        level: 98%
+#       - name: Angular
+#         level: 98%
 
-      - name: HTML5 & CSS
-        level: 95%
+#       - name: HTML5 & CSS
+#         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+#       - name: Ruby on Rails
+#         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+#       - name: Sketch & Photoshop
+#         level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
