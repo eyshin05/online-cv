@@ -99,9 +99,8 @@ experiences:
       company: Scatter Lab, South Korea
       details: |
         Developed Pingpong, solution for Korean small-talking conversation chatbot.
-          - Developed an emotion model that attaches emojies to messages and recognizes emotional factors.
+          - Developed an emotion model that attaches emojies to messages and recognizes emotional factors
           - Design, data building, preprocessing, programming, and server programming for API
-          - https://pingpong.us/
 
     - role: Research assistant
       time: 2013 - 2016
