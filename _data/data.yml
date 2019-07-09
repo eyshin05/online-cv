@@ -42,18 +42,18 @@ sidebar:
 #         link:
 
 career-profile:
-    title: Cover Letter (for general)
+    title: Cover Letter
     summary: |
-      I first met the "Artificial Intelligence" during my freshman year of college.
+      I first met the <b>"Artificial Intelligence"</b> during my freshman year of college.
       I've been selected as a Computer Media department (similar to a general Computer Science),
-        and have learned about software development,
+        and have learned about <b>software development</b>,
         while the interest in AI has been steadily continuing.
       At the time, I didn't know about Deep Learning things,
         but I wondered how Neuroscience is reflected in AI,
-        so I studied Neuroscience on my own.
+        so I studied <b>Neuroscience</b> on my own.
 
       I wanted to study more about Neuroscience and apply to it AI,
-        so I entered the graduate school and
+        so I entered the graduate school of <b>Brain and Cognitive Sciences</b> and
           learn how to take structural/functioanl MRI and analyze the data,
         and learned the human brain in many ways.
 
@@ -62,13 +62,13 @@ career-profile:
       And I thought, now I have to do some AI things, and I've jumped into the career.
 
       My first job was ScatterLab.
-      My main task was to create chatbots with Natural Language Processing and Machine Learning techniques.
+      My main task was to create chatbots with <b>Natural Language Processing</b> and <b>Machine Learning</b> techniques.
       I learned a lot of things through my work for two years,
         but I felt the limitation of technology and want to study more in academia.
 
       My second and current job is IBS-CNIR.
       Now I'm doing functional MRI data analysis in motor learning,
-        and I'm a little more familiar with Multivariate Pattern Analysis techniques, computational modeling, and statistics.
+        and I'm a little more familiar with <b>Multivariate Pattern Analysis</b> techniques, computational modeling, and statistics.
 
       I am now looking for the next step.
       Where research of AI allows us to study human cognition more deeply,
@@ -139,11 +139,11 @@ publications:
 
     papers:
       - title: "Astrocytic water channel aquaporin-4 modulates brain plasticity in both mice and humans: A potential gliogenetic mechanism underlying language-associated learning"
-        authors: J Woo, J E Kim, J J Im, J Lee, H S Jeong, S Park, S-Y Jung, H An, S Yoon, S M Lim, S Lee, J Ma, E Y Shin, Y-E Han, B Kim, E H Lee, L Feng, H Chun, B-E Yoon, I Kang, S R Dager, I K Lyoo & C J Lee
+        authors: J Woo, J E Kim, J J Im, J Lee, H S Jeong, S Park, S-Y Jung, H An, S Yoon, S M Lim, S Lee, J Ma, <b>E Y Shin</b>, Y-E Han, B Kim, E H Lee, L Feng, H Chun, B-E Yoon, I Kang, S R Dager, I K Lyoo & C J Lee
         conference: Molecular Psychiatry 23, 1021-1031 (2018)
 
       - title: "Predicting decisions related to loss aversion using multi-voxel pattern analysis : In rapid event-related design fMRI"
-        authors: E Y Shin
+        authors: <b>E Y Shin</b>
         conference: Master Thesis (2016)
 
 posters:
@@ -153,15 +153,15 @@ posters:
     papers:
 
       - title: "Distint neural correlates of a reward-based motor skill learning in early and advanced stage"
-        authors: E Y Shin, Y Choi, H Lee, S Kim
+        authors: <b>E Y Shin</b>, Y Choi, H Lee, S Kim
         conference: Organization for Human Brain Mapping 2019
 
       - title: "Building a cognitive map of a reward-based motor skill learning"
-        authors: Y Choi, E Y Shin, H Lee, S Kim
+        authors: Y Choi, <b>E Y Shin</b>, H Lee, S Kim
         conference: Organization for Human Brain Mapping 2019
 
       - title: "Dissociation of neural substrates for motor learning and execution in learning multiple visuomotor mappings"
-        authors: S Kim, K Lim, E Y Shin, Y Choi
+        authors: S Kim, K Lim, <b>E Y Shin</b>, Y Choi
         conference: Society for Neuroscience 2018
 
 
