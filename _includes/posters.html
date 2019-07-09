@@ -18,7 +18,9 @@
 
   {% for poster in posters.papers %}
   <div class="item">
-    <div class="poster-title">{{ poster.title }}</div>
+      <span class="project-title">
+        <a href="{{ poster.link }}">{{ poster.title }}</a>
+      </span>
     <div class="poster-authors">{{ poster.authors }}</div>
     <div class="poster-conference">{{ poster.conference }}</div>
   </div><!--//item-->

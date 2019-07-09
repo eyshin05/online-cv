@@ -48,7 +48,7 @@ career-profile:
       I've been selected as a Computer Media department (similar to a general Computer Science),
         and have learned about <b>Software Development</b>,
         while the interest in AI has been steadily continuing.
-      At that time, I didn't know about Deep Learning things,
+      At that time, I didn't know about Deep Learning stuffs,
         but I wondered how Neuroscience is reflected in AI,
         so I studied <b>Neuroscience</b> on my own.
 
@@ -64,11 +64,11 @@ career-profile:
       My first job was ScatterLab.
       My main task was to create chatbots with <b>Natural Language Processing</b> and <b>Machine Learning</b> techniques.
       I learned a lot of things through my work for two years,
-        but I felt the limitation of technology and want to study more in academia.
+        but I felt the limitation of industry and want to study more in academia.
 
       My second and current job is IBS-CNIR.
       Now I'm doing functional MRI data analysis in motor learning,
-        and I'm a little more familiar with <b>Multivariate Pattern Analysis</b> techniques, computational modeling, and statistics.
+        and I'm more familiar with <b>Multivariate Pattern Analysis</b> techniques, computational modeling, and statistics.
 
       I am now looking for the next step.
       Where research of AI allows us to study human cognition more deeply,
@@ -117,7 +117,6 @@ projects:
     assignments:
 
       - title: Data Glove Project
-        link: "#"
         tagline: "A fMRI study related to motor skill learning."
 
       - title: Pingpong
@@ -125,11 +124,10 @@ projects:
         tagline: "A solution for Korean small-talking conversation chatbot."
 
       - title: Loss aversion research
-        link: "#"
+        link: "http://www.riss.kr/link?id=T14138795"
         tagline: "A fMRI study related to loss aversion, a theory of behavioral economics."
 
       - title: Amygdala shape analysis
-        link: "#"
         tagline: "A MATLAB in-house program for amygdala shape analysis."
 
 
@@ -153,10 +151,12 @@ posters:
     papers:
 
       - title: "Distint neural correlates of a reward-based motor skill learning in early and advanced stage"
+        link: "https://files.aievolution.com/hbm1901/abstracts/49573/Th646_Shin.pdf"
         authors: <b>E Y Shin</b>, Y Choi, H Lee, S Kim
         conference: Organization for Human Brain Mapping 2019
 
       - title: "Building a cognitive map of a reward-based motor skill learning"
+        link: "https://files.aievolution.com/hbm1901/abstracts/49450/Th647_Choi.pdf"
         authors: Y Choi, <b>E Y Shin</b>, H Lee, S Kim
         conference: Organization for Human Brain Mapping 2019
 
@@ -181,7 +181,7 @@ skills:
       - name: MATLAB
         level: 70%
 
-      - name: Visualization (Neuro tools, Sketch, Photoshop, etc...)
+      - name: Visualization (Neuro tools, Illustration, Photoshop, etc...)
         level: 85%
 
 #       - name: Javascript & jQuery
