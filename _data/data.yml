@@ -132,6 +132,18 @@ publications:
     # intro: |
       
     papers:
+      - title: "(Poster) Distint neural correlates of a reward-based motor skill learning in early and advanced stage"
+        authors: *E Y Shin*, Y Choi, H Lee, S Kim
+        conference: Organization for Human Brain Mapping 2019
+
+      - title: "(Poster) Building a cognitive map of a reward-based motor skill learning"
+        authors: Y Choi, *E Y Shin*, H Lee, S Kim
+        conference: Organization for Human Brain Mapping 2019
+      
+      - title: "(Poster) Dissociation of neural substrates for motor learning and execution in learning multiple visuomotor mappings"
+        authors: S Kim, K Lim, *E Y Shin*, Y Choi
+        conference: Society for Neuroscience 2018
+    
       - title: "Astrocytic water channel aquaporin-4 modulates brain plasticity in both mice and humans: A potential gliogenetic mechanism underlying language-associated learning"
         authors: J Woo, J E Kim, J J Im, J Lee, H S Jeong, S Park, S-Y Jung, H An, S Yoon, S M Lim, S Lee, J Ma, *E Y Shin*, Y-E Han, B Kim, E H Lee, L Feng, H Chun, B-E Yoon, I Kang, S R Dager, I K Lyoo & C J Lee
         conference: Molecular Psychiatry 23, 1021-1031 (2018)
@@ -139,23 +151,6 @@ publications:
       - title: "Predicting decisions related to loss aversion using multi-voxel pattern analysis : In rapid event-related design fMRI"
         authors: E Y Shin
         conference: Master Thesis (2016)
-        
-publications:
-    title: Posters
-    # intro: |
-      
-    papers:
-      - title: "Distint neural correlates of a reward-based motor skill learning in early and advanced stage"
-        authors: *E Y Shin*, Y Choi, H Lee, S Kim
-        conference: Organization for Human Brain Mapping 2019
-
-      - title: "Building a cognitive map of a reward-based motor skill learning"
-        authors: Y Choi, *E Y Shin*, H Lee, S Kim
-        conference: Organization for Human Brain Mapping 2019
-      
-      - title: "Dissociation of neural substrates for motor learning and execution in learning multiple visuomotor mappings"
-        authors: S Kim, K Lim, *E Y Shin*, Y Choi
-        conference: Society for Neuroscience 2018
 
 skills:
     title: Skills &amp; Proficiency
