@@ -1,0 +1,28 @@
+{% assign posters = site.data.data.posters %}
+{% if posters %}
+<section class="section posters-section">
+
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-file-alt fa-stack-1x fa-inverse"></i>
+    </span>
+    {{ posters.title }}
+  </h2>
+
+  {% if posters.intro %}
+  <div class="intro">
+    {{ posters.intro | markdownify }}
+  </div><!--//intro-->
+  {% endif %}
+
+  {% for poster in posters.papers %}
+  <div class="item">
+    <div class="poster-title">{{ poster.title }}</div>
+    <div class="poster-authors">{{ poster.authors }}</div>
+    <div class="poster-conference">{{ poster.conference }}</div>
+  </div><!--//item-->
+  {% endfor %}
+
+</section><!--//section-->
+{% endif %}

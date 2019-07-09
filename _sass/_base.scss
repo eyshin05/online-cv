@@ -232,6 +232,26 @@ p {
             margin-bottom: 15px;
         }
     }
+
+    .poster-title {
+        font-size: 16px;
+        font-weight: 400;
+        color: $text-color;
+        margin-bottom: 1px;
+    }
+    .poster-authors {
+        font-style: italic;
+        color: $text-grey;
+        margin-bottom: 1px;
+    }
+    .posters-section {
+        .intro {
+            margin-bottom: 30px;
+        }
+        .item {
+            margin-bottom: 15px;
+        }
+    }
 }
 
 
