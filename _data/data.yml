@@ -149,18 +149,24 @@ posters:
     # intro: |
 
     papers:
+    
+      - title: "Double dissociation of fMRI activity in caudate nucleus supports human <i>de novo</i> motor skill learning"
+        link: "https://github.com/eyshin05/online-cv/raw/master/assets/2019SfN_poster.pdf"
+        authors: Y Choi, <b>E Y Shin</b>, S Kim
+        conference: Society for Neuroscience 2019
 
-      - title: "Distint neural correlates of a reward-based motor skill learning in early and advanced stage"
-        link: "https://files.aievolution.com/hbm1901/abstracts/49573/Th646_Shin.pdf"
+      - title: "Distinct neural correlates of a reward-based motor skill learning in early and advanced stage"
+        link: "https://github.com/eyshin05/online-cv/raw/master/assets/2019OHBM_poster1.pdf"
         authors: <b>E Y Shin</b>, Y Choi, H Lee, S Kim
         conference: Organization for Human Brain Mapping 2019
 
       - title: "Building a cognitive map of a reward-based motor skill learning"
-        link: "https://files.aievolution.com/hbm1901/abstracts/49450/Th647_Choi.pdf"
+        link: "https://github.com/eyshin05/online-cv/raw/master/assets/2019OHBM_poster2.pdf"
         authors: Y Choi, <b>E Y Shin</b>, H Lee, S Kim
         conference: Organization for Human Brain Mapping 2019
 
       - title: "Dissociation of neural substrates for motor learning and execution in learning multiple visuomotor mappings"
+        link: "https://github.com/eyshin05/online-cv/raw/master/assets/2018SfN_poster.pdf"
         authors: S Kim, K Lim, <b>E Y Shin</b>, Y Choi
         conference: Society for Neuroscience 2018
 
